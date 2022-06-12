@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Fumofumo</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Тут должна была быть биография, но я решил, что вместо неё на этом месте будет анекдот.
+\n
+\n  Мама собирает сыну обед в школу:
+\n— Вот, положила тебе в ранец хлеб, колбасу и гвозди.
+\n— Мам, нафига??
+\n— Ну как же, берешь хлеб, кладешь на него колбасу и ешь.
+\n— А гвозди?
+\n— Так вот же они!
+\n
+\n
+\n
+\n
+\n
+\n
+\n
+    </string>
+
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
